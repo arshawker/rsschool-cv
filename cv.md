@@ -8,3 +8,13 @@
 
 #### About Me
 Hi, my name is Arslan, I'm from Turkmenistan but now I live in Poland. I want to be a Frontend Developer because it is a very exciting and interesting job, which is constantly developing, evolving, and thus gives the opportunity to acquire new skills.  Became a Frontend Developer gives me a opportunities anywhere in the World. In the future I plan to live in Belarus.
+
+### Skills
+* HTML
+* CSS
+* JS - in progress 
+
+### Language:
+* Russian (native)
+* Polish (very good)
+* English A2+
