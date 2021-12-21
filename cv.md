@@ -18,3 +18,8 @@ Hi, my name is Arslan, I'm from Turkmenistan but now I live in Poland. I want to
 * Russian (native)
 * Polish (very good)
 * English A2+
+
+### Soft skills
+* emotional intelligence
+* creativity
+* communications
