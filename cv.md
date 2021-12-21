@@ -2,7 +2,7 @@
 ![Arslan alt-myAvatar](https://avatars.githubusercontent.com/u/71924869?v=4)
 #### Contact Info
 * __Phone:__ +48793114265  
-* __E-mail:__ arslanniyazov@gmail.com
+* __E-mail:__ arslan93niyazov@gmail.com
 * __GitHub:__ [arshawker](https://github.com/arshawker)
 * __Telegram:__ [Arslan](https://t.me/Arstradebars)
 
