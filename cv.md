@@ -20,6 +20,14 @@ Hi, my name is Arslan, I'm from Turkmenistan but now I live in Poland. I want to
 * English A2+
 
 ### Soft skills
-* emotional intelligence
-* creativity
-* communications
+* Emotional intelligence
+* Creativity
+* Communications
+* Adaptability
+* Responsibility
+* Discipline
+* Dependability
+* Optimism
+* Calmness 
+* Teamwork
+* Self-motivation
