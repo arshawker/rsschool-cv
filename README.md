@@ -1,1 +1,1 @@
-https://arshawker.github.io/rsschool-cv/cv
+https://arshawker.github.io/rsschool-cv/
