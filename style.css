@@ -5,7 +5,7 @@ h1 {
 
 }
 
-h3 {
+h2 {
     font-size: 24px;
     color: black;
     font-family: 'Courier New', Courier, monospace;
@@ -32,14 +32,29 @@ li {
 .contact_container {
     display: flex;
     justify-content: space-between;
+    margin: 25px;
 }
 
 .copy_right{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 
-.name {
+
+.about_me {
+    margin: 25px;
+}
+
+.navigation__list {
     display: flex;
-    justify-content: center;
+    text-align: center;
+    justify-content: space-around;
+    background-color: rgba(8, 164, 226, 0.363);
+}
+
+.navigation__list>li {
+    margin: 10px;
+    list-style-type: none;
+    cursor: pointer;
+    transition: all 0.3s linear;
 }
