@@ -1,0 +1,60 @@
+h1 {
+    font-size: 36px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+h2 {
+    font-size: 24px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+p {
+    font-size: 20px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    font-size: 18px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.skills_container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.contact_container {
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+}
+
+.copy_right{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.about_me {
+    margin: 25px;
+}
+
+.navigation__list {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    background-color: rgba(8, 164, 226, 0.363);
+}
+
+.navigation__list>li {
+    margin: 10px;
+    list-style-type: none;
+    cursor: pointer;
+    transition: all 0.3s linear;
+}

@@ -1,1 +1,1 @@
-# rsschool-cv
+https://arshawker.github.io/rsschool-cv/
