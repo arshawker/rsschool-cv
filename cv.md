@@ -39,3 +39,32 @@ I'm committed and passionate about programming, as evidenced by my dedication to
 - English A2+
 - Polish (very good)
 - Russian (native)
+
+### **_Code_**
+
+```javascript
+// Hells Kitchen - codewars
+// Gordon Ramsay shouts. He shouts and swears. There may be something wrong with him
+// you will be given a string of four words. Your job is to turn them in to Gordon language.
+function gordon(a) {
+  return a
+    .replace(/[aeuio]/g, (i) => (i === "a" ? "@" : "*"))
+    .toUpperCase()
+    .split(" ")
+    .map((elem) => elem + "!!!!")
+    .join(" ");
+}
+```
+
+```javascript
+// Password Check - Binary to String - codewars
+// Script that takes an array of possible passwords and a string of binary representing the possible password. Convert the binary to a string and compare to the password array.
+function decodePass(passArr, bin) {
+  let passFromBin = bin
+    .split(" ")
+    .map((elem) => String.fromCharCode(parseInt(elem, 2)))
+    .join("");
+  return passArr.includes(passFromBin) ? passFromBin : false;
+}
+```
+#### rsschool-cv [Arslan Niyazov](https://arshawker.github.io/rsschool-cv/cv)
