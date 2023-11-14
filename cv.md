@@ -67,4 +67,4 @@ function decodePass(passArr, bin) {
   return passArr.includes(passFromBin) ? passFromBin : false;
 }
 ```
-#### rsschool-cv [Arslan Niyazov](https://arshawker.github.io/rsschool-cv/cv)
+#### rsschool-cv [gh-pages](https://github.com/arshawker/rsschool-cv/tree/gh-pages)
