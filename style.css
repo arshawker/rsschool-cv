@@ -295,3 +295,41 @@ a:hover {
   color: var(--text-main-color);
 }
 /* about end  */
+
+/* skills and lang */
+.title2 {
+  color: var(--text-white-color);
+  letter-spacing: 1px;
+  font-size: var(--title-size);
+  padding: 20px 0;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+.skills {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 25px 20px;
+  background-color: var(--bgc-section-color);
+  color: var(--text-white-color);
+  column-gap: 20px;
+}
+.skills__education,
+.skills__language {
+  width: 100%;
+}
+.skills__education a {
+  font-style: italic;
+  text-decoration: underline;
+}
+.skills__soft-skills {
+  width: 100%;
+  grid-row: span 2;
+}
+.skills__list {
+  font-size: var(--p-size);
+  line-height: 1.2;
+}
+.skills__item {
+  margin: 7px 0;
+}
+/* skills and lang end*/
