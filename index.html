@@ -212,7 +212,46 @@
                </div>
             </div>
          </section>
+         <!-- code  -->
+         <section class="code__container container shadow" id="code">
+            <h2 class="title">code</h2>
+            <div class="code__item">
+               <h3 class="title1">
+                  Hells Kitchen
+                  <a href="https://www.codewars.com/kata/57d1f36705c186d018000813">Codewars</a>
+               </h3>
+               <pre><code class="JavaScript ">
+                    // Hells Kitchen - codewars
+                    // Gordon Ramsay shouts. He shouts and swears. There may be something wrong with him
+                    // you will be given a string of four words. Your job is to turn them in to Gordon language.
+                    function gordon(a) {
+                      return a
+                        .replace(/[aeuio]/g, (i) => (i === "a" ? "@" : "*"))
+                        .toUpperCase()
+                        .split(" ")
+                        .map((elem) => elem + "!!!!")
+                        .join(" ");
+                    }</code></pre>
+               <h3 class="title1">
+                  Password Check - Binary to String
+                  <a href="https://www.codewars.com/kata/5a731b36e19d14400f000c19">Codewars</a>
+               </h3>
+               <pre><code class="JavaScript ">
+                    // Password Check - Binary to String - codewars
+                    // Script that takes an array of possible passwords and a string of binary representing the possible password. 
+                    //Convert the binary to a string and compare to the password array.
+                    function decodePass(passArr, bin) {
+                      let passFromBin = bin
+                        .split(" ")
+                        .map((elem) => String.fromCharCode(parseInt(elem, 2)))
+                        .join("");
+                      return passArr.includes(passFromBin) ? passFromBin : false;
+                    }
+                    </code></pre>
+            </div>
+         </section>
       </main>
+      <!-- footer -->
    </div>
 
 </body>

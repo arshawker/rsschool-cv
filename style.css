@@ -333,3 +333,20 @@ a:hover {
   margin: 7px 0;
 }
 /* skills and lang end*/
+
+/* code start */
+.code__container {
+  background-color: #fff;
+  padding: 10px 20px;
+}
+.code__item {
+  padding-bottom: 25px;
+}
+.code__item h3 {
+  margin: 10px 0;
+}
+.code__item a {
+  color: rgb(96, 25, 25);
+  text-decoration: underline;
+}
+/* code end */
