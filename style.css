@@ -252,3 +252,46 @@ a:hover {
   right: 20px;
 }
 /* section contacts end */
+
+/* about */
+.about {
+  padding: 20px 20px;
+  background-color: #fff;
+}
+.title {
+  letter-spacing: 1px;
+  font-size: var(--title-size);
+  padding: 20px 0;
+  color: var(--title-color);
+  font-weight: 400;
+  text-transform: capitalize;
+}
+.about-article {
+  color: var(--text-main-color);
+  font-size: var(--p-size);
+  line-height: 1.5;
+  text-wrap: balance;
+}
+.about-experience {
+  padding-bottom: 15px;
+  line-height: 1.5;
+}
+.about-experience__company {
+  font-size: var(--h4-size);
+}
+.styled-span {
+  font-size: var(--styled-span);
+  font-weight: 200;
+}
+.about-experience__position {
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(16px, 2vw, 18px);
+  padding: 5px 0;
+}
+.about-experience__description {
+  font-size: var(--p-size);
+  padding-bottom: 5px;
+  color: var(--text-main-color);
+}
+/* about end  */
