@@ -349,6 +349,9 @@ a:hover {
   color: rgb(96, 25, 25);
   text-decoration: underline;
 }
+.projects-list li {
+  padding: 10px;
+}
 /* code end */
 
 /* footer start */
